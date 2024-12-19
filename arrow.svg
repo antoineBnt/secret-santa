@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="ferme" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 418.78 312.92">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #1d1d1b;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 16px;
+      }
+    </style>
+  </defs>
+  <polyline class="cls-1" points="47.54 23.97 178.47 154.9 55.96 277.41"/>
+  <polyline class="cls-1" points="143.9 23.97 274.83 154.9 152.32 277.41"/>
+  <polyline class="cls-1" points="240.26 23.97 371.19 154.9 248.68 277.41"/>
+</svg>
